@@ -1,8 +1,8 @@
 name: "Dimension Media"
 description: "Film Productions"
 
-#url: "http://localhost:4000"
-url: "http://dimension-media.github.com" 
+url: "http://localhost:4000"
+# url: "http://dimension-media.github.com" 
 
 paginate: 10
 

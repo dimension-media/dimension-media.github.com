@@ -16,14 +16,15 @@ Digital video is the latest optimization technique for Google search results lis
 <iframe width="275" height="150" 
 		src="http://smb.somedia.net/videoembed-iframe.php?nid=21505&autoplay=false" 
 		frameborder="2" allowfullscreen></iframe>
+<legend>Difference Capitol- Custom (2:30)</legend>		
 </div>
 
 <div class="col-lg-5"> 
 <iframe width="275" height="150"
 		src="http://smb.somedia.net/videoembed-iframe.php?nid=19999&autoplay=false" 
 		frameborder="2" allowfullscreen></iframe>
+<legend>Allied Oil-  Custom (1:30)</legend>
 </div>
-
 
 </div>
 
@@ -33,15 +34,18 @@ Digital video is the latest optimization technique for Google search results lis
 <iframe width="275" height="150"
 	src="http://smb.somedia.net/videoembed-iframe.php?nid=21761&autoplay=false" 
 	frameborder="2" allowfullscreen></iframe>
+<legend>Import Car Center- Testimonial (0:30)</legend>
 </div >
 
 <div class="col-lg-5" >
 <iframe width="275" height="150"
 	src="http://smb.somedia.net/videoembed-iframe.php?nid=21089&autoplay=false" 
 	frameborder="2" allowfullscreen></iframe>
+<legend>New Sky Consulting- Profile (0:30)</legend>
 </div>
 
 </div>
+
 
 <div class="row">
 
@@ -49,12 +53,47 @@ Digital video is the latest optimization technique for Google search results lis
 <iframe width="275" height="150"
 	src="http://smb.somedia.net/videoembed-iframe.php?nid=21013&autoplay=false" 
 	frameborder="2" allowfullscreen></iframe>
+<legend>Baby Go Round- Advertisement (1:00)</legend>
 </div>
 
 <div class="col-lg-5" >
 <iframe width="275" height="150"
 	src="http://smb.somedia.net/videoembed-iframe.php?nid=19578&autoplay=false" 
 	frameborder="2" allowfullscreen></iframe>
+<legend>Advanced Nutrients- Custom (2:00)</legend>
 </div>
+
+</div>	
+
+
+<div class="row">
+
+<div class="col-lg-5" >
+<iframe width="275" height="150"
+	src="http://smb.somedia.net/videoembed-iframe.php?nid=17036&autoplay=false" 
+	frameborder="2" allowfullscreen></iframe>
+<legend>One Percent Realty- Custom (2:00)</legend>
+</div>
+
+<div class="col-lg-5" >
+<iframe width="275" height="150"
+	src="http://smb.somedia.net/videoembed-iframe.php?nid=16499&autoplay=false" 
+	frameborder="2" allowfullscreen></iframe>
+<legend>Walter Homes- Profile (0:30)</legend>
+</div>
+
+</div>	
+
+
+
+<div class="row">
+<center>
+<div class="col-lg-10" >
+<iframe width="275" height="150"
+	src="http://smb.somedia.net/videoembed-iframe.php?nid=3893&autoplay=false" 
+	frameborder="2" allowfullscreen></iframe>
+<legend>Black Hills Winery- Advertisement (0:40)</legend>
+</div>
+</center>
 
 </div>	

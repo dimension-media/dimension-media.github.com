@@ -16,7 +16,7 @@ V6B 1C9
 
 
 
-##Eric Johnston
+##Eric Johnson
 Corporate Sales Executive
 
 [eric@dimensionmedia.ca](mailto:eric@dimensionmedia.ca)
