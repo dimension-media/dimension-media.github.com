@@ -29,6 +29,5 @@ Corporate Sales Executive
 ##Danaan Dallas
 Executive Producer
 
-[dallas@dimensionmedia.ca](mailto:dallas@dimensionmedia.ca)
 
 604.719.1273 <span class="glyphicon glyphicon-phone"></span>
