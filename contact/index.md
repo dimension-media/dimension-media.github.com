@@ -19,7 +19,7 @@ V6B 1C9
 ##Eric Johnson
 Corporate Sales Executive
 
-[eric@dimensionmedia.ca](mailto:eric@dimensionmedia.ca)
+[eric@dimensionmedia.biz](mailto:eric@dimensionmedia.biz)
 
 604.318.7887 <span class="glyphicon glyphicon-phone"></span>
 
@@ -29,5 +29,6 @@ Corporate Sales Executive
 ##Danaan Dallas
 Executive Producer
 
+[dallas@dimensionmedia.biz](mailto:dallas@dimensionmedia.biz)
 
 604.719.1273 <span class="glyphicon glyphicon-phone"></span>
