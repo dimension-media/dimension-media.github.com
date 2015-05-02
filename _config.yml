@@ -2,7 +2,7 @@ name: "Dimension Media"
 description: "Film Productions"
 
 # url: "http://localhost:4000"
-url: "http://dimensionmedia.ca" 
+url: "http://dimensionmedia.biz" 
 
 paginate: 10
 
