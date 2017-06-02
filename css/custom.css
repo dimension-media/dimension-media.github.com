@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* custom start */ 
+
+
+.mainBody{
+	
+	margin-bottom: 80px;
+	margin-top: 90px;
+}
+
+
+/*Social Media Icons*/
+    .map {
+        min-width: 300px;
+        min-height: 200px;
+        width: 100%;
+        height: 50%;
+    }
+
+
+.footer{
+	
+	
+	background-color: #29ABE1;
+	color: white; 
+	font-size: 18px; 
+	padding:20px; 
+	
+}
+
+.blue{
+	color: #36A0FF;
+	
+}
+
+.background{
+	box-shadow: 0 0 30px grey;
+	margin-top: 20px;
+	padding:0 15px 0 15px;
+	letter-spacing: 1px;
+		
+}
+
+.fa
+{
+	color: white;
+	
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+
+.navbar-custom {
+	background-color:white;
+	font-weight: 500;
+	letter-spacing: 5px;
+	word-spacing: 6;
+	
+	
+	
+	
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#000000;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+    color: #29ABE1;
+    background-color:white;
+			border-radius: 10px 10px 0 0;
+		-moz-border-radius: 10px 10px 0 0;
+		-webkit-border-radius: 10px 10px 0 0;
+}
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus,
+.navbar-custom .navbar-nav > .open >a {
+    text-decoration: none;
+    background-color: transparent;
+	opacity: 0.5;
+}
+
+
+.navbar-custom .navbar-brand {
+    color:#000000;
+}
+.navbar-custom .navbar-toggle {
+    background-color:#29ABE1;
+}
+.navbar-custom .icon-bar {
+    background-color:#FFFFFF;
+}
+
+.typog {
+	font-size: 20px;
+	justify-content: center;
+	
+}
+
+.transp-link {
+	outline: none;
+}
+
+/* customize end */
+
